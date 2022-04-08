@@ -1,6 +1,6 @@
 <h1 align="center">  Atividade Logica I :rocket: </h1> <br>
 
-## **Atividade da 2ª semana da Reprograma.** :hearts:
+## *Atividade da 2ª semana da Reprograma.* :hearts:
   
   <br>
 
@@ -40,9 +40,9 @@
 #### Resolva as questões abaixo:  
 
 > Passo a passo:
-1) Criado uma pasta (AtividadeLogica1) contendo cinco arquivos com extensão .js para cada questão abaixo, e um README.md
+>1) Criado uma pasta (AtividadeLogica1) contendo cinco arquivos com extensão .js para cada questão abaixo, e um README.md
 
-```
+
     1 - Solicite o preço de uma mercadoria e o percentual de desconto 20%. Exiba no console o valor do desconto e o preço a pagar.
 
     2 - Calcule o tempo de uma viagem de carro. Pergunte a distância a percorrer e a velocidade média esperada para a viagem.
@@ -53,9 +53,9 @@
     pelos quais o carro foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60,00 reais por dia e 0,15 centavos por km rodado.
 
     5 - Receba do usuários 3 números e calcule a média entre eles.
-```
 
-2) Subir o projeto no github, atualize o README.md com o que aprendeu e usou. 
+
+>2) Subir o projeto no github, atualize o README.md com o que aprendeu e usou. 
 
 
 ### :small_orange_diamond: Prints  
